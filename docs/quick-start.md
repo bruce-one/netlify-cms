@@ -190,7 +190,7 @@ As described above, the `widget` property specifies a built-in or custom UI widg
 Widget | UI | Data Type
 --- | --- | ---
 `string` | text input | string
-`datetime` | date picker widget | ISO date string
+`datetime` | datetime picker widget | ISO datetime string
 `image` | file picker widget with drag-and-drop | file path saved as string, image uploaded to media folder
 `number` | text input with `+` and `-` buttons | number
 `markdown` | rich text editor with raw option | markdown-formatted string
